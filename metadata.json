@@ -1,0 +1,6 @@
+{
+  "name": "3D Environment Artist Portfolio",
+  "description": "Interactive WebGL-powered 3D digital business card and game art showcase, featuring live real-time interactive 3D model viewers and immersive visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
